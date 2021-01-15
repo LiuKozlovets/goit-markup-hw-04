@@ -112,8 +112,8 @@ li {
 .address:focus {
   color: var(--accent-color);
 }
-.adress:focus .icon-address,
-.adress:hover .icon-address{
+.address:focus .icon-address,
+.address:hover .icon-address {
   fill: var(--accent-color);
 }
 
